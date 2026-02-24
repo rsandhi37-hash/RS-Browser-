@@ -9,14 +9,16 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "icon-192.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1H4s5FXvS_tdxn0B3oVAtcpFeh9KOuWKJe0piiHN-cNb_UaxmPHtAVJW6FRdpcdFjI46aK3nyyEjSrzLfyQsQJc53iujIkw_oVkoZEuIAqZoOeESb_o-t8fl086gCVr9-kkM5CYIZbzE1Uc0d_O6urFFsB9aKMKr417Pv4bDn9v5Yp27bffwjcML10PS/s192/21394.jpg",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/jpeg",
+      "purpose": "any"
     },
     {
-      "src": "icon-512.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih1H4s5FXvS_tdxn0B3oVAtcpFeh9KOuWKJe0piiHN-cNb_UaxmPHtAVJW6FRdpcdFjI46aK3nyyEjSrzLfyQsQJc53iujIkw_oVkoZEuIAqZoOeESb_o-t8fl086gCVr9-kkM5CYIZbzE1Uc0d_O6urFFsB9aKMKr417Pv4bDn9v5Yp27bffwjcML10PS/s512/21394.jpg",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/jpeg",
+      "purpose": "any"
     }
   ]
 }
