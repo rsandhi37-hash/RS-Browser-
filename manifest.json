@@ -1,0 +1,22 @@
+{
+  "name": "RS Browser Horizon",
+  "short_name": "RS Browser",
+  "description": "Navigate beyond the familiar",
+  "start_url": ".",
+  "display": "fullscreen",
+  "background_color": "#0B1026",
+  "theme_color": "#0B1026",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
